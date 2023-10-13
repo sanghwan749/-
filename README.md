@@ -25,3 +25,5 @@
 4.데이터 정렬 기능
 
 5.to do리스트 작성 기능
+
+[glarity뭔가요](https://glarity.app/ko)
