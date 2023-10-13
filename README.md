@@ -26,4 +26,4 @@
 
 5.to do리스트 작성 기능
 
-[glarity뭔가요](https://glarity.app/ko)
+[glarity가 뭔가요](https://glarity.app/ko)
